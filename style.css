@@ -45,3 +45,7 @@ ul {
     width: 40%;
     justify-content: center;
 }
+
+ul li {
+    padding: 10px 25px;
+}
