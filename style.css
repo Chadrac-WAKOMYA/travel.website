@@ -64,3 +64,10 @@ ul li a:hover {
     padding: 15px;
     border-radius: 20px;
 }
+
+.btn-header {
+    width: 30%;
+    justify-content: end;
+    display: flex;
+
+}
