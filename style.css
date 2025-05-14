@@ -6,3 +6,20 @@
     box-sizing: border-box  ;
     font-family: "Open Sans", sans-serif;
 }
+
+body {
+    background-color: #fff;
+}
+
+header {
+    padding: 20px 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+}
+
+section {
+    padding: 20px 8%;
+}
