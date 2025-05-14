@@ -81,6 +81,7 @@ ul li a:hover {
     font-weight: bold;
     cursor: pointer;    
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+    transition: 0.5s;
 }
 
 .btn:hover {
