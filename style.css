@@ -56,3 +56,11 @@ ul li a {
     font-size: 14px;
     transition: 0.5s;
 }
+
+ul li a:hover {
+    background-color: #f6d238;
+    color: #000;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 20px;
+}
