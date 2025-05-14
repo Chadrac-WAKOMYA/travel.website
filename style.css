@@ -23,3 +23,18 @@ header {
 section {
     padding: 20px 8%;
 }
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.logo-div {
+   width: 30px;
+}
+
+.logo-div span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #f6d238;
+}
