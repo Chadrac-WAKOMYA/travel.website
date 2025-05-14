@@ -38,3 +38,10 @@ section {
     font-weight: bold;
     color: #f6d238;
 }
+
+ul {
+    list-style: none;
+    display: flex;
+    width: 40%;
+    justify-content: center;
+}
