@@ -126,3 +126,7 @@ ul li a:hover {
     left: 250px;
     transition: 0.5s;
 }
+
+.home-section .left .image-left-2:hover {
+    transform: scale(1.1) rotate(-10deg);
+}
