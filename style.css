@@ -101,7 +101,7 @@ ul li a:hover {
     height: 500px;
 }
 
-.home-section .left .img {
+.home-section .left img {
     position: absolute;
     
 }
@@ -109,5 +109,13 @@ ul li a:hover {
 .home-section .left .image-left-1 {
     width: 450px;
     height: 500px;
+    transition: 0.5s;
+}
+
+.home-section .left .image-left-2 {
+    width: 350px;
+    height: 350px;
+    top: 150px;
+    left: 250px;
     transition: 0.5s;
 }
