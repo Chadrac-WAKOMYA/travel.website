@@ -105,3 +105,9 @@ ul li a:hover {
     position: absolute;
     
 }
+
+.home-section .left .image-left-1 {
+    width: 450px;
+    height: 500px;
+    transition: 0.5s;
+}
