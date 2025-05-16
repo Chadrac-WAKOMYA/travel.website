@@ -100,3 +100,8 @@ ul li a:hover {
     width: 600px;
     height: 500px;
 }
+
+.home-section .left .img {
+    position: absolute;
+    
+}
