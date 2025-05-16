@@ -86,6 +86,5 @@ ul li a:hover {
 
 .btn:hover {
     background-color: #f1f1f1;
-    transform: rotate(2deg);
-    
+    transform: rotate(5deg);
 }
