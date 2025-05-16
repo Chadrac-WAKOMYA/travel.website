@@ -103,7 +103,10 @@ ul li a:hover {
 
 .home-section .left img {
     position: absolute;
-    
+    object-fit: cover;
+    border: 8px solid #fff;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 2rem;
 }
 
 .home-section .left .image-left-1 {
