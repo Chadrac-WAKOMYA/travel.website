@@ -94,3 +94,9 @@ ul li a:hover {
     justify-content: center;
     width: 100%;
 }
+
+.home-section .left {
+    position: relative;
+    width: 600px;
+    height: 500px;
+}
