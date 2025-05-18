@@ -130,3 +130,9 @@ ul li a:hover {
 .home-section .left .image-left-2:hover {
     transform: scale(1.1) rotate(-10deg);
 }
+
+.home-section .right {
+    position: relative;
+    width: 600px;
+    height: 500px;
+}
