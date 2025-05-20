@@ -171,3 +171,9 @@ ul li a:hover {
     display: flex;
     align-items: center;
 }
+
+.see-video span {
+    font-size: 14px;
+    color: #999;
+    margin-left: 10px;
+}
