@@ -132,7 +132,10 @@ ul li a:hover {
 }
 
 .home-section .right {
-    position: relative;
-    width: 600px;
-  
+    margin-left: 100px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
