@@ -151,3 +151,10 @@ ul li a:hover {
     font-weight: bold;
     line-height: 50px;
 }
+
+.home-section .right p{
+    margin-bottom: 25px;
+    color: #999;
+    font-size: 14px;
+    width : 70%
+}
