@@ -182,4 +182,10 @@ ul li a:hover {
     background: url(image/img3.jpg);
     height: 50px;
     width: 50px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+
 }
