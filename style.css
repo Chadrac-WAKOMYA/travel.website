@@ -158,3 +158,10 @@ ul li a:hover {
     font-size: 14px;
     width : 70%
 }
+
+.see-video{
+    border: 0;
+    display: flex;
+    background-color: transparent;
+    align-items: center;
+}
