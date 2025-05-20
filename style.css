@@ -164,4 +164,5 @@ ul li a:hover {
     display: flex;
     background-color: transparent;
     align-items: center;
+    cursor: pointer;
 }
