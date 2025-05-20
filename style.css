@@ -173,7 +173,6 @@ ul li a:hover {
 }
 
 .see-video span {
-    font-size: 14px;
-    color: #999;
-    margin-left: 10px;
+    margin-left: 25px;
+    font-weight: bold;
 }
