@@ -166,3 +166,8 @@ ul li a:hover {
     align-items: center;
     cursor: pointer;
 }
+
+.buttons {
+    display: flex;
+    align-items: center;
+}
