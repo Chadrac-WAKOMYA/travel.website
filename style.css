@@ -140,3 +140,7 @@ ul li a:hover {
     align-items: center;
 }
 
+.home-section .right .text-right{
+    color: #f6d238;
+    font-weight: bold;
+}
