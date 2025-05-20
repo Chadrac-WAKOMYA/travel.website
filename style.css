@@ -178,10 +178,8 @@ ul li a:hover {
 }
 
 .video-bg  {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+    margin-left: 20px;
+    background: url(image/img3.jpg);
+    height: 50px;
+    width: 50px;
 }
