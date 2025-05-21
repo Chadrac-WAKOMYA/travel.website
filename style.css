@@ -189,3 +189,9 @@ ul li a:hover {
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
 
 }
+
+.play-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
