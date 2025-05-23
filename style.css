@@ -203,3 +203,7 @@ ul li a:hover {
     right: -20px;
     transform: translate(-20%, 50%);
 }
+
+.play-btn i {
+    color: #cf0711;
+}
