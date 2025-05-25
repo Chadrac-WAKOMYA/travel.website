@@ -207,3 +207,10 @@ ul li a:hover {
 .play-btn i {
     color: #cf0711;
 }
+
+.desc-button {
+    display: flex;
+    justify-content: space-between;
+    margin : 30px 0;
+}
+
