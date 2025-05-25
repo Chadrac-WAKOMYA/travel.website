@@ -207,3 +207,41 @@ ul li a:hover {
 .play-btn i {
     color: #cf0711;
 }
+
+.desc-button {
+    display: flex;
+    justify-content: space-between;
+    margin : 30px 0;
+}
+
+.desc-button .buttons button {
+    background-color: #f6d238;
+    cursor: pointer;
+    border: 2px solid #f6d238;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    color: #000;
+    align-items: center;
+}
+
+.desc-button .buttons button:hover {
+    background-color: #f1f1f1;
+    transform: rotate(10deg);
+}
+
+.desc-button .buttons .second {
+    margin-left: 20px;
+} 
+
+
+.desc-button .buttons i {
+    font-size: 20px;
+}
+
+.desc-button .small-desc {
+    color : #999;
+    width: 60%;
+}
