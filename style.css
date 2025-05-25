@@ -240,3 +240,8 @@ ul li a:hover {
 .desc-button .buttons i {
     font-size: 20px;
 }
+
+.desc-button .small-desc {
+    color : #999;
+    width: 60%;
+}
