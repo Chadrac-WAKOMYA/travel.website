@@ -214,3 +214,11 @@ ul li a:hover {
     margin : 30px 0;
 }
 
+.desc-button .buttons button {
+    background-color: #f6d238;
+    cursor: pointer;
+    border: 2px solid #f6d238;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
