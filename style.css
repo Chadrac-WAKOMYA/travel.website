@@ -232,3 +232,8 @@ ul li a:hover {
     transform: rotate(10deg);
 }
 
+.desc-button .buttons .second {
+    margin-left: 20px;
+} 
+
+
