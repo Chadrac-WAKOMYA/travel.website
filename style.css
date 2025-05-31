@@ -280,3 +280,7 @@ ul li a:hover {
     text-align: center;
     transition: 0.05s;
 }
+
+.destinations .gallerie .image:hover .description {
+    
+}
