@@ -248,6 +248,14 @@ ul li a:hover {
 }
 
 .destination .gallerie .image {
-
+    width: 24%;
+    height: 350px;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 20px;
 }
 
