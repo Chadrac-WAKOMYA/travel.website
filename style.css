@@ -278,7 +278,8 @@ ul li a:hover {
     transform: translateY(350px) ;
     background-color: #fff;
     text-align: center;
-    transition: 0.05s;
+    transition: 0.5s;
+    padding: 20px;
 }
 
 .destinations .gallerie .image:hover .description {
