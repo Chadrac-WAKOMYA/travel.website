@@ -265,5 +265,11 @@ ul li a:hover {
     height: 100%;
     border-radius: 1rem;
     transition: 0.5s;
-    
+
+}
+
+.gallerie {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
