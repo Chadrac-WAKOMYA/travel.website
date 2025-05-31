@@ -259,6 +259,10 @@ ul li a:hover {
     padding: 20px;
 }
 
-.destination .gallerie .image img{
-
+.destinations .gallerie .image img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+    transition: 0.5s;
 }
