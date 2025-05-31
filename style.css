@@ -247,7 +247,7 @@ ul li a:hover {
     font-size: 14px;
 }
 
-.destination .gallerie .image {
+.destinations .gallerie .image {
     width: 24%;
     height: 350px;
     border-radius: 1rem;
@@ -260,5 +260,5 @@ ul li a:hover {
 }
 
 .destination .gallerie .image img{
-    
+
 }
