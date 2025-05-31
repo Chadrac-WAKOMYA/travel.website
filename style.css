@@ -275,5 +275,8 @@ ul li a:hover {
 }
 
 .destinations .gallerie .description {
-    
+    transform: translate(350px) ;
+    background-color: #fff;
+    text-align: center;
+    transition: 0.05s;
 }
