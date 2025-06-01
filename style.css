@@ -241,8 +241,47 @@ ul li a:hover {
     font-size: 20px;
 }
 
-/* .desc-button .small-desc {
+.desc-button .small-desc {
     color : #999;
     width: 60%;
     font-size: 14px;
-} */
+}
+
+.destinations .gallerie .image {
+    width: 24%;
+    height: 350px;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.destinations .gallerie .image img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+    transition: 0.5s;
+
+}
+
+.destinations .gallerie {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.destinations .gallerie .description {
+    transform: translateY(350px) ;
+    background-color: #fff;
+    text-align: center;
+    transition: 0.5s;
+    padding: 20px;
+}
+
+.destinations .gallerie .image:hover .description {
+    transform: translateY(-120px) ;
+}
