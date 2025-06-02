@@ -280,6 +280,7 @@ ul li a:hover {
     text-align: center;
     transition: 0.5s;
     padding: 20px;
+    height: 50%;
 }
 
 .destinations .gallerie .description h1 {
@@ -288,6 +289,8 @@ ul li a:hover {
 }
 
 .destinations .gallerie .description p {
+    font-size: 14px;
+    color: #999;
 }
 
 .destinations .gallerie .image:hover .description {
