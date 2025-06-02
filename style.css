@@ -296,3 +296,7 @@ ul li a:hover {
 .destinations .gallerie .image:hover .description {
     transform: translateY(-120px) ;
 }
+
+.destinations .gallerie .image:hover img {
+    
+}
