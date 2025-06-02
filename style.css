@@ -287,6 +287,9 @@ ul li a:hover {
     margin-bottom: 10px;
 }
 
+.destinations .gallerie .description p {
+}
+
 .destinations .gallerie .image:hover .description {
     transform: translateY(-120px) ;
 }
