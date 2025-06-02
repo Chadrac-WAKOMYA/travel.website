@@ -330,5 +330,11 @@ ul li a:hover {
 }
 
 .box-list .box:hover img {
-    transform: scale(2);
+    transform: scale(2) rotate(10deg);
+}
+
+.box-list .box .description {
+    position: absolute;
+    bottom: 0;
+   
 }
