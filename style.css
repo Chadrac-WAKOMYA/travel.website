@@ -343,5 +343,6 @@ ul li a:hover {
 }
 
 .box-list .box .description h2{
-
+    font-size: 14px;
+    font-weight: bold;
 }
