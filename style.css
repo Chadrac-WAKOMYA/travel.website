@@ -283,7 +283,8 @@ ul li a:hover {
 }
 
 .destinations .gallerie .description h1 {
-    
+    font-size: 20px;
+    margin-bottom: 10px;
 }
 
 .destinations .gallerie .image:hover .description {
