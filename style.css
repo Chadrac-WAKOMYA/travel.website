@@ -336,5 +336,8 @@ ul li a:hover {
 .box-list .box .description {
     position: absolute;
     bottom: 0;
-   
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    transition: 0.5s;
 }
