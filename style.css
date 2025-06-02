@@ -282,6 +282,10 @@ ul li a:hover {
     padding: 20px;
 }
 
+.destinations .gallerie .description h1 {
+    
+}
+
 .destinations .gallerie .image:hover .description {
     transform: translateY(-120px) ;
 }
