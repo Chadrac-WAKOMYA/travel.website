@@ -307,3 +307,9 @@ ul li a:hover {
     justify-content: center;
     align-items: center;
 }
+
+.box-list .box {
+    width: 32.33%;
+    height: 400px;
+    
+}
