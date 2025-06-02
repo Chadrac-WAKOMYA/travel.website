@@ -328,3 +328,7 @@ ul li a:hover {
     object-fit: cover;
     transition: 0.5s;  
 }
+
+.box-list .box:hover img {
+    transform: scale(2);
+}
