@@ -303,4 +303,7 @@ ul li a:hover {
 
 .best-trips {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
