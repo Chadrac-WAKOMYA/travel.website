@@ -311,5 +311,8 @@ ul li a:hover {
 .box-list .box {
     width: 32.33%;
     height: 400px;
-    
+    position: relative;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
 }
