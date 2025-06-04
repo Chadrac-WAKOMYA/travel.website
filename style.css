@@ -407,5 +407,9 @@ ul li a:hover {
 }
 
 .together {
-    
+    display: flex;
+    justify-content: space-between;
 }
+
+
+
