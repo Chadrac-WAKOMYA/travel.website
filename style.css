@@ -374,5 +374,6 @@ ul li a:hover {
 }
 
 .box-list .box .description .button-description button:hover{
-    
+    background-color: #f6d238;
+    color: #000;
 }
