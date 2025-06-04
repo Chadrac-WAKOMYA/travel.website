@@ -419,7 +419,8 @@ ul li a:hover {
     border: #fff;
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
     display: flex;
-    border-radius: 20px;
+    border-radius: 20px;    
+    overflow: hidden;
 }
 
 .input input {
@@ -429,6 +430,8 @@ ul li a:hover {
     width: 400px;
     outline : none;
 }
+
+
 
 
 
