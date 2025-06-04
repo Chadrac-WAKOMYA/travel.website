@@ -364,5 +364,11 @@ ul li a:hover {
 }
 
 .box-list .box .description .button-description button{
-    
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 1px solid #f6d238;
+    color: #f6d238;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5s;
 }
