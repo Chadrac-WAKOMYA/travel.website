@@ -416,7 +416,10 @@ ul li a:hover {
 }
 
 .input {
-    
+    border: #fff;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+    display: flex;
+    border-radius: 20px;
 }
 
 
