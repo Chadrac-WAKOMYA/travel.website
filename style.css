@@ -342,10 +342,10 @@ ul li a:hover {
     transition: 0.5s;
 }
 
-/* .box-list .box .description h2{
+.box-list .box .description h2{
     font-size: 14px;
     font-weight: bold;
-} */
+}
 
 .rating {
 }
