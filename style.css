@@ -301,7 +301,7 @@ ul li a:hover {
     transform: translateY(-120px) ;
 }
 
-.best-trips {
+.best-trip {
     display: flex;
     flex-direction: column;
     justify-content: center;
