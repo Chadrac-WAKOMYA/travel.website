@@ -423,7 +423,11 @@ ul li a:hover {
 }
 
 .input input {
-    
+    border : 0;
+    padding: 12px;
+    padding-left: 20px;
+    width: 400px;
+    outline : none;
 }
 
 
