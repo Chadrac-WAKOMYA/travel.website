@@ -372,3 +372,7 @@ ul li a:hover {
     cursor: pointer;
     transition: 0.5s;
 }
+
+.box-list .box .description .button-description button:hover{
+    
+}
