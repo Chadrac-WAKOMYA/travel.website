@@ -348,4 +348,7 @@ ul li a:hover {
 }
 
 .rating {
+    color: #dca930;
+    font-weight: bold;
+    margin: 5px;
 }
