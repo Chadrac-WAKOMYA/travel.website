@@ -354,4 +354,7 @@ ul li a:hover {
 }
 
 .box-list .box .description .button-description{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
 }
