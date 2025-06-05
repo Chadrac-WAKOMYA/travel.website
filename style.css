@@ -436,15 +436,21 @@ footer{
     border-radius: 60px 60px 0 0;
     padding: 20px 0;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 footer .right-footer {
     font-size: 14px;
     color: #999;
+
 }
 
 footer .right-footer span{
-
+    
+    
 }
 
 
