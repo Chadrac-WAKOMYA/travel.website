@@ -382,3 +382,56 @@ ul li a:hover {
     text-align: center;
     font-size: 30px;
 }
+
+.best-trip .small-desc {
+    text-align: center;
+    margin: 30px auto;
+    color: #999;
+    font-size: 14px;
+}
+
+.view-all{
+    margin : 50px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email-trip h1 {
+    margin-bottom: 20px;
+}
+
+.email-trip p {
+    font-size: 14px;
+    color: #999;
+}
+
+.together {
+    display: flex;
+    justify-content: space-between;
+}
+
+.together .text {
+    width: 500px;
+}
+
+.input {
+    border: #fff;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+    display: flex;
+    border-radius: 20px;    
+    overflow: hidden;
+}
+
+.input input {
+    border : 0;
+    padding: 12px;
+    padding-left: 20px;
+    width: 400px;
+    outline : none;
+}
+
+
+
+
+
