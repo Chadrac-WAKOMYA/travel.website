@@ -432,7 +432,10 @@ ul li a:hover {
 }
 
 footer{
-    
+    background-color: #f1f1f1;
+    border-radius: 60px 60px 0 0;
+    padding: 20px 0;
+    text-align: center;
 }
 
 
